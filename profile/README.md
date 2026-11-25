@@ -9,4 +9,4 @@ Protet watches what your CI jobs do when they run: the processes they start, the
 **Repositories**
 - `monitor`: a preview GitHub Action. Not a protection yet.
 
-Report a vulnerability: [protet.io/security](https://protet.io/security) · Website: [protet.io](https://protet.io)
+Report a vulnerability: [protet.io/trust](https://protet.io/trust#disclosure) · Website: [protet.io](https://protet.io)
